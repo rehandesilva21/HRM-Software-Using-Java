@@ -1,0 +1,2 @@
+Branch: Matara  Department: Human Resource  department Code: MHR0001
+Branch: Matara  Department: Design  department Code: MD0001
